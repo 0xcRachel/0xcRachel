@@ -155,6 +155,8 @@
   <img src="https://img.shields.io/badge/YouTube-0d0d1a?style=for-the-badge&logo=youtube&logoColor=a78bfa" />
 </a>
 
+<img src="https://i.pinimg.com/736x/5e/d0/74/5ed074206dfb4626589e6c8309f15417.jpg" alt="picture">
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=0xcRachel&label=Profile+views&color=7c3aed&style=flat" />
