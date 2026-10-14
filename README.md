@@ -299,10 +299,7 @@ alt="GitHub Activity Graph"
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=0xcRachel&label=Profile+views&color=7c3aed&style=flat"
-  alt="Profile Views"
-/>
+![Profile Views](https://komarev.com/ghpvc/?username=0xcRachel&label=Profile+views&color=7c3aed&style=flat)
 
 </div>
 
