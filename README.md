@@ -299,7 +299,7 @@ alt="GitHub Activity Graph"
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xcRachel&label=Profile+views&color=7c3aed&style=flat&v=1)
+![Profile Views](https://komarev.com/ghpvc/?username=0xcRachel&label=Profile+views&color=7c3aed&style=flat)
 
 </div>
 
